@@ -1,0 +1,5 @@
+scripts/
+# Hardhat files
+hardhat.config.js
+package-lock.json
+
